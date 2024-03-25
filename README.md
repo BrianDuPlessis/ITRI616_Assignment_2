@@ -4,5 +4,6 @@ The goal is to reach a target destination while avoiding falling off a cliff. Th
 balancing the exploration of unknown territory with the risk of potential pitfalls, emphasizing the trade-off between maximizing rewards and minimizing risks.</p>
 <br>
 <p>This project solves the cliff walker problem by implementing Q-table-based reinforcement learning.</p>
-![Animated GIF](https://gymnasium.farama.org/_images/cliff_walking.gif)
+![1_UdVnZo8yu2dBsI1Of8FLIg](https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/9113b45e-1795-4cb8-9c6e-31b4d2c3233a)
+
 
