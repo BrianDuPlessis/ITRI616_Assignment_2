@@ -5,18 +5,16 @@ balancing the exploration of unknown territory with the risk of potential pitfal
 <br>
 <p>This project solves the cliff walker problem by implementing Q-learning-based reinforcement learning, utilizing the SARSA algorithm.</p>
 <img src="https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/9113b45e-1795-4cb8-9c6e-31b4d2c3233a">
-
-<p>The solutions provided are both Q-learning solutions, however, one implements hyperparameter optimization with a simple grid search strategy</p>
-<hr>
-<p>The execution of the code is straightforward, if training has yet to be done, the program can simply be executed. Information regarding the training process is displayed in the terminal as can be 
-seen below: </p>
+<br>
+<p>The project offers two solutions based on Q-learning. However, one of these solutions incorporates hyperparameter optimization using a straightforward grid search strategy.</p>
+<br>
+<p>The code execution process is uncomplicated. If training hasn't been completed yet, simply running the program suffices. Details about the training progress are printed in the terminal, as demonstrated below: </p>
 <img src="https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/2114c278-ed08-4896-bdb3-232f702238cb">
 <br>
 The number of training episodes per iteration can be set by manipulating the global variable 'iterations' which is set to 500 iterations by default.
 <br>
 <img src="https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/513c57b4-0652-4127-b6b6-c2d609808013">
 <br>
-Q-table data is automatically saved in a file named 'cliff-walker', consequently, the user does not have to retrain the model every time the code is run. 
-The user can toggle training on and off by simply commenting out the function call.
+The Q-table data is automatically saved in a file named 'cliff-walker'. Consequently, users need not retrain the model each time the code is executed. Enabling or disabling training can be easily achieved by commenting out the function call.
 <br>
 <img src="https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/5781edbe-8e35-4e80-83c0-535b5242a93a">
