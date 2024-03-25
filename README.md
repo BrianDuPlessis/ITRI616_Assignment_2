@@ -19,4 +19,3 @@
 </body>
 
 </html>
-![cliff_walking](https://github.com/BrianDuPlessis/ITRI616_Assignment_2/assets/112475285/a508328f-e264-4842-bc38-a68eb15b5677
